@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2CA8B4AA-0737-4CD0-A351-A3D206C3D096}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChecaLista PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChecaLista/Program.cs">
+    <Files>
+      <File FileName="ChecaLista/Program.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChecaLista" expanded="True">
+            <Node name="ChecaLista" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/marcelobertinatto/git/checaLista-IqOption/ChecaLista/ChecaLista/Program.cs" relfile="ChecaLista/Program.cs" line="19" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
